@@ -1,6 +1,6 @@
 {
  "name": "1000Genomes assembly converter",
- "description": "Ne",
+ "description": "Map yffour data to the current assembly.",
  "homepage": "http://browser.1000genomes.org/tools.html",
  "biotoolsID": "1000genomes_assembly_converter",
  "biotoolsCURIE": "biotools:1000genomes_assembly_converter",
