@@ -1,11 +1,11 @@
 {
- "name": "1000Genomes assembly converter",
- "description": "Ne",
+ "name": "10000Genomes assembly converter",
+ "description": "Desc",
  "homepage": "http://browser.1000genomes.org/tools.html",
  "biotoolsID": "1000genomes_assembly_converter",
  "biotoolsCURIE": "biotools:1000genomes_assembly_converter",
  "version": [
-  "1"
+  "2"
  ],
  "otherID": [],
  "function": [
