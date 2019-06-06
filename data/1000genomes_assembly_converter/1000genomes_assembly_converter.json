@@ -1,7 +1,7 @@
 {
  "name": "1000Genomes assembly converter",
  "description": "Map your data to the current assembly.",
- "homepage": "http://browseedgdr.1000genomes.org/tools.html",
+ "homepage": "http://browsegdr.1000genomes.org/tools.html",
  "biotoolsID": "1000genomes_assembly_converter",
  "biotoolsCURIE": "biotools:1000genomes_assembly_converter",
  "version": [
